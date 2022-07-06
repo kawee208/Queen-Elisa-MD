@@ -52,10 +52,10 @@ global.alive =`*💃 Queen Elisa Public Bot is Online 💃*
 🧊  _Type_ *.yt* _Fro Download Songs & Videos_
 
 *⤵ How To Install Bot Video -*
- ``` https://youtu.be/wXovNeqOHSo```
+ https://youtu.be/wXovNeqOHSo
 
 
-```Thanks Fro Using Queen Elisa  💞 ````
+Thanks Fro Using Queen Elisa  💞 `
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
 global.welcome = `
 🌀 Thanks Fro using sl zim bot
