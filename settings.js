@@ -43,7 +43,7 @@ global.author = '𝑫𝒂𝒓𝒌 𝑴𝒐𝒏𝒔𝒕𝒆𝒓🤖' // Sticker A
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
-// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති `Hi guys 🤖👋` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
+// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති `` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
 global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
 global.alive =`Hello i am online now👋
 
