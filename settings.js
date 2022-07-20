@@ -55,7 +55,7 @@ global.alive =👋Hi.. I'm Online Now
 🚫No adult contents 
 
 🌸Admins : 
-     👑Owner - http://wa.me/94715560198 ( Queen Elisa👾 ) 
+     👑Owner - http://wa.me/94715560198 ( Queen Elisa(manu)👾 ) 
      👑Admin - http://wa.me/94787483752 ( Manula Nethsara ) 
 
 🌸Group Link : *https://chat.whatsapp.com/Hl7rlut4BEHE2ysATr2f3Y* 
