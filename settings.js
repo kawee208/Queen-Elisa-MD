@@ -45,7 +45,28 @@ global.prefa = ['#','!','/','']
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති `` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
 global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
-global.alive =`Hello i am online now👋
+global.alive =`🎊Welcome All🎊
+
+🌸Main Rules : 
+🚫Inbox not allowed 
+🚫Group links not allowed 
+🚫No spam 
+🚫No adult contents 
+
+🌸Admins : 
+     👑Owner - http://wa.me/94715560198 ( Queen Elisa👾 ) 
+     👑Admin - http://wa.me/94787483752 ( Manula Nethsara ) 
+
+🌸Group Link : *https://chat.whatsapp.com/Hl7rlut4BEHE2ysATr2f3Y* 
+
+🌸 *_Main Commands_* : 
+.alive ( To check if Bot Online ) 
+👉.menu ( For all commands ) 
+👉.song ( Download songs )
+👉.video ( Download yt vid ) 
+👉.tiktok ( Download tiktok vid )
+
+*24×7 𝑷𝑼𝑩𝑳𝑰𝑪 𝑩𝑶𝑻 🤖*'
 
 Download song type .yt 
 Thanks fro using...`
